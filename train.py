@@ -14,7 +14,6 @@ import shutil
 from matplotlib import animation
 from matplotlib.animation import PillowWriter
 import wandb
-# from src import Data
 import datetime
 import numpy as np
 from IPython.display import HTML
