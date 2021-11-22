@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from torch.utils.tensorboard import SummaryWriter
+from tensorboardX import SummaryWriter
 from tqdm import tqdm
 from torchvision.utils import make_grid
 from torchvision import datasets, transforms
